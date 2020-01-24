@@ -1,6 +1,6 @@
 #hero {
-  min-height: 100vh;
-  height: 100vh;
+  min-height: 180%;
+  height: 110%;
   display: flex;
   align-items: center;
   border-bottom: 0px;
@@ -15,7 +15,7 @@
   right: 0;
   z-index: -1;
 
-  background: url("/src/assets/laptop-img.jpeg");
+  background-image: url("/src/assets/laptop-img.jpeg");
   background-position: center;
   background-size: cover; 
 
