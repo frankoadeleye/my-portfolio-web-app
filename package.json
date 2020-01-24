@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio-web-app",
   "version": "1.0.0",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "A clean, beautiful and responsive portfolio",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
