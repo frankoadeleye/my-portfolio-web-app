@@ -1,7 +1,7 @@
 import initTilt from './js/tilt';
 import initSr from './js/sr';
 import './style/main.scss';
-import MyResume from './assets/Certificate-in-Modern JavaScript-With-Brad.pdf';
+import MyResume from './assets/OluwatimilehinResume.pdf';
 
 function addResume(MyResume){
   const elements = document.getElementsByClassName('.cta-btn--resume');
