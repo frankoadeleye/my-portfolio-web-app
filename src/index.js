@@ -1,7 +1,7 @@
 import initTilt from './js/tilt';
 import initSr from './js/sr';
 import './style/main.scss';
-import MyResume from './assets/Oluwatimilehin.pdf';
+import MyResume from './assets/FranksResume2020.pdf';
 
 function addResume(MyResume){
   const elements = document.getElementsByClassName('.cta-btn--resume');
